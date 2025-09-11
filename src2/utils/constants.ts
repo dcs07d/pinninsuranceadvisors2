@@ -1,2 +1,0 @@
-export const CONTACT_PHONE = '1-877-826-0053';
-export const CONTACT_PHONE_RAW = '18778260053';
