@@ -9,8 +9,6 @@ import {
 const carriers = [
   {
     id: "united",
-    name: "United Healthcare",
-    image: "https://myoptum.optum.com/content/dam/hsid/New_UHC_Logo.png",
     className: "h-8 w-auto"
   },
   {
